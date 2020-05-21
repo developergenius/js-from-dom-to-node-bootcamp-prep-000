@@ -1,3 +1,3 @@
 // write your code below!
 
-console.log("hello world" + ' ' + /n "tis is so cool");
+console.log("hello world" + ' ' + "tis is so cool");
